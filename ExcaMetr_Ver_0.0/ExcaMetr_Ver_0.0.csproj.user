@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AutoEnter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerAssignMasterForm.cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerEscalatorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerRegisterMasterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerReplyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MasterMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyClaims.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserComplaintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WrongData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

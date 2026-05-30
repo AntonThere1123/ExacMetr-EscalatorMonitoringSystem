@@ -1,0 +1,44 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExcaMetr_Ver_0.0/1.0.0": {
+        "dependencies": {
+          "MySql.Data": "9.7.0.0"
+        },
+        "runtime": {
+          "ExcaMetr_Ver_0.0.dll": {}
+        },
+        "resources": {
+          "cs/ExcaMetr_Ver_0.0.resources.dll": {
+            "locale": "cs"
+          }
+        }
+      },
+      "MySql.Data/9.7.0.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "9.7.0.0",
+            "fileVersion": "9.7.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcaMetr_Ver_0.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/9.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
